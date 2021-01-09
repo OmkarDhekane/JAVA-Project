@@ -1,0 +1,8 @@
+demo2|Deposited|+150|15398233088|Time: 0:54:12  Date: 10/1/2021|Omkar's Bank|Successful
+demo2|Withdrawal|-25|15398233088|Sun Jan 10 00:54:22 IST 2021|Omkar's Bank|Successful
+demo2|MoneyTransfer|-45000|to 12076793777|Sun Jan 10 00:54:44 IST 2021|SBI|Successful
+demo2|Deposited|+44875|15398233088|Time: 1:6:53  Date: 10/1/2021|Omkar's Bank|Successful
+demo2|Deposited|+2000|15398233088|Time: 1:7:48  Date: 10/1/2021|Omkar's Bank|Successful
+demo2|MoneyTransfer|-100|to 12076793777|Sun Jan 10 01:12:36 IST 2021|SBI|Successful
+demo2|Deposited|+300|from15398233088|Time: 1:43:38  Date: 10/1/2021|Omkar's Bank|Successful
+demo2|MoneyTransfer|+1500|from 18534021061|Sun Jan 10 01:48:37 IST 2021|Omkar's bank|Successful

@@ -1,0 +1,69 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MAIN",
+            "request": "launch",
+            "mainClass": "src.MAIN",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateMessagePage",
+            "request": "launch",
+            "mainClass": "src.CreateMessagePage",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateErrorPage",
+            "request": "launch",
+            "mainClass": "src.CreateErrorPage",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginPage",
+            "request": "launch",
+            "mainClass": "src.LoginPage",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegistrationPage",
+            "request": "launch",
+            "mainClass": "src.RegistrationPage",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DashBoard",
+            "request": "launch",
+            "mainClass": "src.DashBoard",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Registration",
+            "request": "launch",
+            "mainClass": "src.Registration",
+            "projectName": "Banking System Project_88c24abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GUl",
+            "request": "launch",
+            "mainClass": "GUl"
+        }
+    ]
+}

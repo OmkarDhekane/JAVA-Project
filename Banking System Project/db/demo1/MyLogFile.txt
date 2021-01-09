@@ -1,0 +1,2 @@
+demo1|MoneyTransfer|+45000|from 15398233088|Sun Jan 10 00:54:44 IST 2021|Omkar's bank|Successful
+demo1|MoneyTransfer|+100|from 15398233088|Sun Jan 10 01:12:36 IST 2021|Omkar's bank|Successful

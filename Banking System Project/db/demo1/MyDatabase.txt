@@ -1,0 +1,10 @@
+DemoPerson1
+Joshi
+21
+Male
+78945612351
+demo1
+Savings Account
+12076793777
+47100
+6.00

@@ -1,0 +1,10 @@
+DemoPerson2
+dhekane
+20
+Male
+87945632154
+demo2
+Savings Account
+15398233088
+4700
+6.00
